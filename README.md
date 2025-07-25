@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-This repository consists of my solutions to various LeetCode problems.
+This repository consists of my solutions to various LeetCode problems. Not all solutions are optimal in terms of space and/or time complexity, however they pass all test cases.
 
 ## Technology
 - C++
-- GVim - FixedSys Font :)
+- GVim w/ FixedSys Font :)
 
 ## Structure
 
