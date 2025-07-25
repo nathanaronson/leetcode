@@ -1,1 +1,13 @@
+# MacOS temporary files
 .DS_Store
+
+# VSCode Files
+.vscode/
+
+# VIM Files
+*.swp
+
+# C++ Binary/Object Files
+*.o
+*.out
+*.exe
