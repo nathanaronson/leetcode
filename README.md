@@ -9,12 +9,12 @@ This repository consists of my solutions to various LeetCode problems. Not all s
 ## Structure
 
 ```
-├── easy/
+├── 1_easy/
 │   ├── 0001-two-sum.cpp
 │   └── ...
-├── medium/
+├── 2_medium/
 │   └── ...
-├── hard/
+├── 3_hard/
 │   └── ...
 └── README.md
 ```
