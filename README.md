@@ -19,5 +19,10 @@ This repository consists of my solutions to various LeetCode problems. Not all s
 └── README.md
 ```
 
+## Status
+- [NeetCode 150](https://neetcode.io/roadmap)
+  - Arrays & Hashing (Completed)
+  - Two Pointers (In Progress)
+
 ## Links
 - [My LeetCode Profile](https://leetcode.com/u/nathanaronson/)
