@@ -4,6 +4,8 @@ public:
         // If they are different sizes, they cannot be anagrams.
         if(s.size() != t.size()) return false;
 
+        // Rather than use a frequency map, we can store lowercase letters based on index.
+        // This enables faster caching.
         int freq[26] = {0};
 
         // Take the difference in frequency of each character.
