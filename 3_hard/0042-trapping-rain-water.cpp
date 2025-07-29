@@ -13,11 +13,13 @@ public:
         // Start on either end.
         while(left < right) {
             /*
-            The trick of this problem to make it O(1) memory space is that
+            The trick of this problem to make it O(1) space complexity is that
             we follow the invariants if shifting the bar whose height is lower.
             This allows us to know immediately which maximum bar to compare it to:
             its respective side maximum. It doesn't matter what the other side's maximum
             is, because we only care about the smaller maximum, which is the one we're shifting.
+
+            Trivially, this prevents the need of having to create a prefix and suffix array. 
             */
             if(height[left] < height[right]) {
                 // Update the water, remember it can't be negative.
