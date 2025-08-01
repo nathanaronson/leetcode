@@ -23,9 +23,9 @@ This repository consists of my solutions to various LeetCode problems. All solut
 ## Status
 
 - [NeetCode 150](https://neetcode.io/roadmap)
-  - Arrays & Hashing (Completed)
-  - Two Pointers (Completed)
-  - Stack (In Progress)
+  - Arrays & Hashing (Complete)
+  - Two Pointers (Complete)
+  - Stack (Complete)
   - Sliding Window (In Progress)
 
 ## Links
