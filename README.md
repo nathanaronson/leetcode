@@ -26,7 +26,8 @@ This repository consists of my solutions to various LeetCode problems. All solut
   - Arrays & Hashing (Complete)
   - Two Pointers (Complete)
   - Stack (Complete)
-  - Sliding Window (In Progress)
+  - Sliding Window (Complete)
+  - Binary Search (In Progress)
 
 ## Links
 
